@@ -20,6 +20,8 @@ Descripción
 * CRUD de usuarios, productos y pedidos.
 * Carga de imágenes con Multer.
 * Envío de correos electrónicos personalizados con Nodemailer y Express-Handlebars.
+* Definición de análisis funcional ([link](https://www.canva.com/design/DAEY8bXS4Ac/b1lP_Zb8JBWHP09xqa9lpQ/view?utm_content=DAEY8bXS4Ac&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)).
+* Creación de Manual de Identidad Corporativa ([link](https://www.canva.com/design/DAEY0P1IbLM/aLEwM56PnuVAQ-6pVytu3w/view?utm_content=DAEY0P1IbLM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)).
 
 Setup 
 -------------
